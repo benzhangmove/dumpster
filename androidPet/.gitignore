@@ -1,0 +1,9 @@
+gen/
+bin/
+.DS_Store
+out
+.metadata/
+local.properties
+*.iml
+.idea
+junk*
